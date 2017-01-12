@@ -1,0 +1,10 @@
+name 'active_directory'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Install/Configures an Active Directory client'
+long_description 'Install/Configures an Active Directory client'
+version '1.0.0'
+
+depends 'network_interfaces_v2'
+depends 'ad-join'
