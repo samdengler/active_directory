@@ -23,5 +23,5 @@ Create a file like the following:
 }
 ```
 
-## Updae Chef data bag with item from file
+## Update Chef data bag with item from file
 `$ knife data bag from file active_directory FILENAME`
