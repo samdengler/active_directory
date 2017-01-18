@@ -1,6 +1,6 @@
 # active_directory
 
-This cookbook configures Active Directory on Windows Server 2016.
+This cookbook configures Active Directory on Windows Server 2012R2.
 
 Requries a data bag for configuration values:
 
