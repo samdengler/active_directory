@@ -2,7 +2,7 @@
 
 This cookbook configures Active Directory on Windows Server 2012R2.
 
-Requries a data bag for configuration values:
+Requires a data bag for configuration values:
 
 ## Create Chef data bag
 `$ knife data bag create active_directory`
